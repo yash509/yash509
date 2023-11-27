@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Varma</h1>
 <h3 align="center">Yash is a final year BTech undergraduate with specialization in Computer Science and Engineering, I am a Cloud & DevOps enthusiast for 1+ year now in GCP & AWS Clouds and with various DevOps tools. And I am also a part time Competitive Programmer usually code in C++</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw38YET75GTUz2-OJNYe_xY6&ust=1701171599309000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCftpmM5IIDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/yash509/yash509/assets/71536409/4ecb9611-3f98-4a1a-afac-d9098eae3352)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash509&label=Profile%20views&color=0e75b6&style=flat" alt="yash509" /> </p>
 
