@@ -1,3 +1,3 @@
 // the hello world program
-console.log('Hello World');
 console.log('Hello Yash');
+console.log('Hello World');
