@@ -41,14 +41,13 @@
 
 <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
-<h2 align="center">HacktoberFest 2022 & 2023</h2>
+<h2 align="center">HacktoberFest 2022 & 2023(Open Source Contributions)</h2>
 
 <div align="center">   
   
 [![https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDlmczZqdWgxNjI1ODA5bWkyNXAyNjRtbiIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19](https://holopin.me/yash_223)](https://holopin.io/@yash_223)
 
 </div>
-
 
 
 <!--
