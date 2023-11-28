@@ -40,6 +40,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash509" alt="yash509" /></a> </p>
 
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
+
 <h2 align="center">HacktoberFest 2022 & 2023</h2>
 
 <div align="center">   
