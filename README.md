@@ -1,4 +1,3 @@
-<iframe src="https://github.com/sponsors/yash509/button" title="Sponsor yash509" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 <h1 align="center">Hi 👋, I'm Yash Varma</h1>
 <h3 align="center">Yash is a final year BTech undergraduate with specialization in Computer Science and Engineering, I am a Cloud & DevOps enthusiast for 1+ year now in GCP & AWS Clouds and with various DevOps tools. And I am also a part time Competitive Programmer usually code in C++</h3>
