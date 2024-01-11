@@ -49,6 +49,35 @@
 
 </div>
 
+<h2 align="center">Repository Annual Ranking</h2>
+
+<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /><a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral"></a > 
+
+
+
+
+
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
+Credits: [yash509](https://github.com/yash509) Last Edited on: 11/01/2024
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **yash509/yash509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
