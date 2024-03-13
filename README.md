@@ -1,7 +1,7 @@
+<p align="center"
+<a target="_top" href="https://flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2024/03/13/flamingtext_com_1710315162_29928702.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a> </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/YashVarma/YashVarma/master/name.svg" alt="Yash Varma" />
-</h1>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">Yash is a final year BTech undergraduate with specialization in Computer Science and Engineering, I am a Cloud & DevOps enthusiast for 1+ year now in GCP & AWS Clouds and with various DevOps tools. And I am also a part time Competitive Programmer usually code in C++</h3>
 
