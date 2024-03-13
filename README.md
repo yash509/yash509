@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Yash Varma</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/YashVarma/YashVarma/master/name.svg" alt="Yash Varma" />
+</h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">Yash is a final year BTech undergraduate with specialization in Computer Science and Engineering, I am a Cloud & DevOps enthusiast for 1+ year now in GCP & AWS Clouds and with various DevOps tools. And I am also a part time Competitive Programmer usually code in C++</h3>
 
@@ -9,6 +11,8 @@
 
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 <img src="https://komarev.com/ghpvc/?username=yash509&label=Profile%20views&color=0e75b6&style=flat" alt="yash509" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/></p>
+
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C636%20hrs%2051%20mins-blue)
   
 - 📫 How to reach me **yash.v0201@gmail.com**
 
@@ -33,6 +37,28 @@
 </p>
 
 
+
+```javascript
+const Yash = {
+    pronouns: "He" | "Him",
+    code: ["C++", "Python", "Java", "C"],
+    askMeAbout: ["web dev", "tech", "Cloud", "DevOps", "DevSecOps", "Competitive Programmming"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Cloud DevOps Engineer and DevSecOps Practitioner"]
+        },
+        devOps: ["AWS", "Docker🐳", "GCP", "Nginx", "Ansible", "Kubernetes" , "Terraform", "SonarQube", "Trivy", "Prometheus", "Grafana"],
+        databases: ["MongoDB", "MySql"],
+        misc: ["Linux System Administration", "Linux OS", "Ubuntu OS"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 <h2 align="center">GitHub Stats</h2>
 
