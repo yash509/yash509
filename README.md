@@ -17,14 +17,12 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C636%20hrs%2051%20mins-blue)
 
-
-[![Quality gate](http://34.205.65.128:9000/api/project_badges/quality_gate?project=bmi&token=sqb_5f99d45485eb8c61ab237854148b4c84db261e10)](http://34.205.65.128:9000/dashboard?id=bmi)
 </p>
 - 📫 How to reach me **yash.v0201@gmail.com**
 
 - ⚡ Fun fact **I can be a most relaxing and a hardworking guy at the same time.😅**
 
-- 💬 Ask me about **Cloud, DevOps and Coding Practices**
+- 💬 Ask me about **Cloud, DevOps, DevSecOps and Coding Practices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
