@@ -70,13 +70,15 @@ const Yash = {
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/yash509/github-readme-stats)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash509&show_icons=true&locale=en&layout=compact" alt="yash509" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash509&show_icons=true&locale=en" alt="yash509" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash509&" alt="yash509" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash509" alt="yash509" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash509" alt="yash509" /></a>  </p>
 
 <img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
@@ -114,11 +116,7 @@ const Yash = {
 
 
 
-Credits: [yash509](https://github.com/yash509) Last Edited on: 11/01/2024
-
-
-
-
+Credits: [yash509](https://github.com/yash509) Last Edited on: 20/03/2024
 
 
 
