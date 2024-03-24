@@ -92,6 +92,11 @@ const Yash = {
 
 
 
+[![yashvarma's GitHub | Languages](https://stats.quine.sh/yashvarma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yashvarma)
+
+
+
+
 [![yashvarma's GitHub | Dependencies](https://stats.quine.sh/yashvarma/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yashvarma)
 
 
