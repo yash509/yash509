@@ -97,7 +97,7 @@ const Yash = {
 
 
 
-[![yashvarma's GitHub | Dependencies](https://stats.quine.sh/yashvarma/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yashvarma)
+<!--[![yashvarma's GitHub | Dependencies](https://stats.quine.sh/yashvarma/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yashvarma) -->
 
 
 
