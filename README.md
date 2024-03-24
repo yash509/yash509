@@ -82,6 +82,9 @@ const Yash = {
 
 
 
+[![yashvarma's GitHub | Stats](https://stats.quine.sh/yashvarma/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yashvarma)
+
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
