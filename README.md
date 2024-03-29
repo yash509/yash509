@@ -10,7 +10,7 @@
 <p align="left">   
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
 <img src="https://komarev.com/ghpvc/?username=yash509&label=Profile%20views&color=0e75b6&style=flat" alt="yash509" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/>      
-<a href="https://app.daily.dev/yashvarma"><img src="https://api.daily.dev/devcards/v2/wXvDQ5KvMCTINmASHazPK.png?type=default&r=v7s" align="right" width="235" alt="Yash Varma's Dev Card"/></a>
+
     
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C636%20hrs%2051%20mins-blue)
 
