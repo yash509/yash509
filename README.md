@@ -3,60 +3,72 @@
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3 align="center">Cloud DevOps Engineer with 2.5+ years of experience in automating, securing, and optimizing deployments across AWS and Kubernetes. I specialize in CI/CD, DevSecOps, cloud migrations, and infrastructure automation, delivering secure, scalable, and resilient solutions in regulated banking environments.
+<h3 align="center">☁️ Cloud DevSecOps Engineer by profession…</h3>
 
-🔧 Core Expertise
-CI/CD & Automation: Jenkins, GitLab CI, Terraform, Ansible, CloudFormation
+<h3 align="center">🔧 Accidental SRE when dashboards start screaming…</h3>
 
-Containers & Orchestration: Docker, Kubernetes, Amazon EKS, ArgoCD
+<h3 align="center">🤖 Moderately dangerous MLOps tinkerer when someone leaves a Jupyter notebook unattended.</h3>
 
-Security & Compliance: Trivy, Snyk, OWASP ZAP, HashiCorp Vault, SonarQube
+<h3>In short: I’m a Cloud DevSecOps Engineer who sometimes moonlights as an SRE firefighter and occasionally experiments with MLOps wizardry — keeping systems secure, scalable, and (mostly) sane. </h3>
 
-Monitoring & Observability: Prometheus, Grafana, ELK, CloudWatch
+---
 
-Cloud Platforms: AWS (Certified), GCP
+<h3 align="center">
+With 2.5+ years of wrangling AWS, Kubernetes, and CI/CD pipelines, I spend most of my time automating, securing, and optimizing deployments.  
+But every now and then, I find myself wearing the SRE cape — chasing uptime dragons, taming observability stacks, and pretending I planned that disaster recovery drill all along.
+</h3>
 
-🏆 Certifications
-AWS Certified Cloud Practitioner, Solutions Architect Associate, DevOps Engineer Professional
 
-Certified AppSec Practitioner, Cloud Security Practitioner – AWS
+<h3>
+🔧 Core Expertise:-
+</h3>
 
-Network Security Practitioner, Blue Team Practitioner
+- **CI/CD & Automation**: Jenkins, GitLab CI, Terraform, Ansible, CloudFormation — building secure pipelines with Blue-Green strategies and automated artifact management.  
+- **Containers & Orchestration**: Docker, Kubernetes (production-grade deployments with autoscaling, fault tolerance, and GitOps-driven rollouts), Amazon EKS, ArgoCD.  
+- **Security & Compliance**: Trivy, Snyk, OWASP ZAP, HashiCorp Vault, SonarQube — enforcing vulnerability scanning, secrets management, and code quality across deployments.  
+- **Monitoring & Observability**: Prometheus, Grafana, ELK, CloudWatch — designing dashboards, alert rules, and centralized logging to reduce MTTR by 70%.  
+- **Cloud Platforms**: AWS (Certified Cloud Practitioner, Solutions Architect Associate, DevOps Engineer Professional) and GCP — architecting scalable, resilient, and compliant cloud solutions.  
 
-Fortinet NSE-1, NSE-2, NSE-3
 
-📌 Highlights
-Architected and managed Amazon EKS clusters with 99.99% uptime.
+<h3>
+🏆 Certifications:-
+</h3>
 
-Migrated business-critical banking applications to AWS with zero data loss.
+- **AWS Certified**: Cloud Practitioner, Solutions Architect Associate, DevOps Engineer Professional — validating expertise in designing, automating, and managing AWS cloud solutions.  
+- **SecOps: The Pentesting Group Certified**: Certified AppSec Practitioner, Cloud Security Practitioner – AWS, Network Security Practitioner, Blue Team Practitioner (Defensive Security).  
+- **Fortinet NSE Series Certified**: NSE-1, NSE-2, NSE-3 — foundational to intermediate certifications in network security and threat defense.  
 
-Automated multi-region VPC architectures and disaster recovery strategies.
 
-Promoted to Sr. DevOps Engineer on KodeKloud Engineer Platform with 100,000+ achievement points.
+<h3 align="corner">
+📌 Highlights:-
+</h3>
 
-Mentored 350+ students as a Google Cloud Arcade Facilitator.
+- Architected and managed **Amazon EKS clusters** and **Kubernetes production-grade deployments** with autoscaling, secure networking, fault-tolerant design, and compliance-grade isolation — consistently achieving **99.99% uptime**.  
+- Designed and implemented **GitOps-driven Kubernetes rollouts** using ArgoCD, Jenkins, and Blue-Green strategies for zero-downtime deployments across Dev, Non-Prod, Prod, and DR environments.  
+- Migrated **business-critical banking applications** (CKYC, VKYC, AML, BALM) to AWS and Kubernetes with **zero data loss** and minimal downtime.  
+- Automated **multi-region VPC architectures** with strict security controls, disaster recovery drills, and resilience strategies for regulated environments.  
+- Promoted to **Sr. DevOps Engineer** on the **KodeKloud Engineer Platform**, earning **100,000+ achievement points** and recognition among top contributors.  
+- Mentored **350+ students** as a **Google Cloud Arcade Facilitator**, guiding them in cloud-native and DevOps practices.  
+- Deployed **70+ cloud-native projects** across AWS, Kubernetes, and DevSecOps pipelines, earning **250+ Google Cloud badges**.  
 
-Deployed 60+ cloud-native projects and earned 250+ Google Cloud badges.
 
 💡 Passionate about cloud-native technologies, open-source contributions, and building secure, automated pipelines. Always exploring new ways to improve reliability, scalability, and developer productivity.
 
-📫 Reach me at: yash.v0201@gmail.com | LinkedIn</h3>
-
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">   
+<!-- <p align="left">   
 <img src="https://img.shields.io/static/v1?label=hello&message=world&color=green?style=plastic&logo=appveyor" />
-<img src="https://komarev.com/ghpvc/?username=yash509&label=Profile%20views&color=0e75b6&style=flat" alt="yash509" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/>      
+<img src="https://komarev.com/ghpvc/?username=yash509&label=Profile%20views&color=0e75b6&style=flat" alt="yash509" /> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/>       -->
 
     
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C636%20hrs%2051%20mins-blue)
+
 
 </p>
 - 📫 How to reach me **yash.v0201@gmail.com**
 
 - ⚡ Fun fact **I can be a most relaxing and a hardworking guy at the same time.😅**
 
-- 💬 Ask me about **Cloud, DevOps, DevSecOps and Coding Practices**
+- 💬 Ask me about **Cloud, DevOps, DevSecOps, Cloud DevOps Security, Network Security, MLops (silently) and Coding Practices**
 
 
 
@@ -79,60 +91,6 @@ Deployed 60+ cloud-native projects and earned 250+ Google Cloud badges.
 
 
 
-```javascript
-const Yash = {
-    pronouns: "He" | "Him",
-    code: ["C++", "Python", "Java", "C"],
-    askMeAbout: ["web dev", "tech", "Cloud", "DevOps", "DevSecOps", "Competitive Programmming"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Cloud DevOps Engineer and DevSecOps Practitioner"]
-        },
-        devOps: ["AWS", "Docker🐳", "GCP", "Nginx", "Ansible", "Kubernetes" , "Terraform", "SonarQube", "Trivy", "Prometheus", "Grafana"],
-        databases: ["MongoDB", "MySql"],
-        misc: ["Linux System Administration", "Linux OS", "Ubuntu OS"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-
-
-
-<h2 align="center">GitHub Stats</h2>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact)](https://github.com/yash509/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash509&show_icons=true&locale=en&layout=compact" alt="yash509" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash509&show_icons=true&locale=en" alt="yash509" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash509&" alt="yash509" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash509" alt="yash509" /></a>  </p>
-
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
-
-
-
-[![yashvarma's GitHub | Stats](https://stats.quine.sh/yashvarma/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yashvarma)
-
-
-
-
-[![yashvarma's GitHub | Topics](https://stats.quine.sh/yashvarma/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yashvarma)
-
-
-
-
-[![yashvarma's GitHub | Languages](https://stats.quine.sh/yashvarma/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yashvarma)
 
 
 
@@ -162,11 +120,11 @@ const Yash = {
 
 </div>
 
-<h2 align="center">Repository Annual Ranking</h2>
+<!-- <h2 align="center">Repository Annual Ranking</h2>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /><a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral"></a > 
+<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" /><a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral"></a >  -->
 
 
 
