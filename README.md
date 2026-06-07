@@ -64,11 +64,13 @@ But every now and then, I find myself wearing the SRE cape — chasing uptime dr
 
 
 </p>
+<br><br>
 - 📫 How to reach me **yash.v0201@gmail.com**
 
-- ⚡ Fun fact **I can be a most relaxing and a hardworking guy at the same time.😅**
+- ⚡ Fun fact -> **I’m the rare mix of a Kubernetes firefighter and a hopeless romantic — I can debug clusters at 2 AM and still find time to write long‑ended love story in verse. My YAML sometimes reads like poetry, my pipelines sometimes act like tragedies, and Jenkins tantrums often feel like heartbreaks. Yet somehow, I stay the chillest guy in the sprint while secretly moonlighting as a poet of lost love. 😅**
 
-- 💬 Ask me about **Cloud, DevOps, DevSecOps, Cloud DevOps Security, Network Security, MLops (silently) and Coding Practices**
+- 💬 Ask me about -> **Cloud, DevOps, DevSecOps, Cloud DevOps Security, Network Security, MLops (silently) and Coding Practices**
+
 
 
 
