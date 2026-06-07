@@ -3,7 +3,44 @@
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h3 align="center">Yash is a final year BTech undergraduate with specialization in Computer Science and Engineering, I am a Cloud, DevOps & DevSecOps enthusiast for 1.7+ year now in GCP & AWS Clouds and with various DevOps tools. And I am also a part time Competitive Programmer usually code in C++</h3>
+<h3 align="center">Cloud DevOps Engineer with 2.5+ years of experience in automating, securing, and optimizing deployments across AWS and Kubernetes. I specialize in CI/CD, DevSecOps, cloud migrations, and infrastructure automation, delivering secure, scalable, and resilient solutions in regulated banking environments.
+
+🔧 Core Expertise
+CI/CD & Automation: Jenkins, GitLab CI, Terraform, Ansible, CloudFormation
+
+Containers & Orchestration: Docker, Kubernetes, Amazon EKS, ArgoCD
+
+Security & Compliance: Trivy, Snyk, OWASP ZAP, HashiCorp Vault, SonarQube
+
+Monitoring & Observability: Prometheus, Grafana, ELK, CloudWatch
+
+Cloud Platforms: AWS (Certified), GCP
+
+🏆 Certifications
+AWS Certified Cloud Practitioner, Solutions Architect Associate, DevOps Engineer Professional
+
+Certified AppSec Practitioner, Cloud Security Practitioner – AWS
+
+Network Security Practitioner, Blue Team Practitioner
+
+Fortinet NSE-1, NSE-2, NSE-3
+
+📌 Highlights
+Architected and managed Amazon EKS clusters with 99.99% uptime.
+
+Migrated business-critical banking applications to AWS with zero data loss.
+
+Automated multi-region VPC architectures and disaster recovery strategies.
+
+Promoted to Sr. DevOps Engineer on KodeKloud Engineer Platform with 100,000+ achievement points.
+
+Mentored 350+ students as a Google Cloud Arcade Facilitator.
+
+Deployed 60+ cloud-native projects and earned 250+ Google Cloud badges.
+
+💡 Passionate about cloud-native technologies, open-source contributions, and building secure, automated pipelines. Always exploring new ways to improve reliability, scalability, and developer productivity.
+
+📫 Reach me at: yash.v0201@gmail.com | LinkedIn</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
