@@ -5,7 +5,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">☁️ Cloud DevSecOps Engineer by profession…</h3>
 
-<h3 align="center">🔧 Accidental SRE (Site Reliability Enginner) when dashboards start screaming…</h3>
+<h3 align="center">🔧 Accidental SRE (Site Reliability Engineer) when dashboards start screaming…</h3>
 
 <h3 align="center">🤖 Moderately dangerous MLOps tinkerer when someone leaves a Jupyter notebook unattended.</h3>
 
